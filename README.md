@@ -9,5 +9,7 @@ A great program to develop your mathematical skills
 Follow us on [github.com](https://github.com/erkinovs-blog) to stay
 up to date with more exciting applications!
 
-![homepage](assets/homepage.png?raw=true)
 <img src="assets/homepage.png" width="200" />
+<img src="assets/level1.png" width="200" />
+<img src="assets/level3.png" width="200" />
+<img src="assets/score_screen.png" width="200" />
