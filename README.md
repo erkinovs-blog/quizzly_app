@@ -10,3 +10,4 @@ Follow us on [github.com](https://github.com/erkinovs-blog) to stay
 up to date with more exciting applications!
 
 ![homepage](assets/homepage.png?raw=true)
+<img src="assets/homepage.png" width="200" />
