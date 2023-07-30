@@ -1,0 +1,21 @@
+{
+  "helloMessage" : "Welcome to Quizzly!",
+  "helloSubtitle" : "With Quizzly, you can improve your thinking, intelligence and logical skills.",
+  "levelTitle" : "Choose the appropriate level...",
+  "level" : "Level {number}",
+  "@level" : {
+    "placeholders" : {
+      "number" : {
+        "type" : "num",
+        "example" : "0"
+      }
+    }
+  },
+  "question" : "Question ",
+  "yourScore" : "Your Score",
+  "correct" : "Correct",
+  "wrong" : "Wrong",
+  "playAgain" : "Play again",
+  "home" : "Home"
+
+}

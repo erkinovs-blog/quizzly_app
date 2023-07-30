@@ -1,0 +1,12 @@
+{
+  "helloMessage" : "Quizzly ga Xush kelibsiz!",
+  "helloSubtitle" : "Quizzly yordamida siz fikrlash, aqliy va mantiqiy ko'nikmalaringizni yaxshilashingiz mumkin.",
+  "levelTitle" : "Bosqichni tanlang",
+  "level" : "{number} - bosqich",
+  "question" : "Savollar ",
+  "yourScore" : "Natijangiz",
+  "correct" : "To'g'ri",
+  "wrong" : "Xato",
+  "playAgain" : "Qayta o'ynash",
+  "home" : "Asosiyga"
+}
