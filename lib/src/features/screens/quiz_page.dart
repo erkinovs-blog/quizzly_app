@@ -265,7 +265,9 @@ class _QuizPageState extends State<QuizPage> {
                     children: value
                         .map(
                           (e) => CustomButton(
-                            text: e.toStringAsFixed(1),
+                            text: e.ceil() == e.floor()
+                                ? e.toInt().toString()
+                                : e.toStringAsFixed(2),
                             onPressed: () => onTap(e),
                             fillColor: Colors.white,
                             borderColor: AppColors.mainColor,

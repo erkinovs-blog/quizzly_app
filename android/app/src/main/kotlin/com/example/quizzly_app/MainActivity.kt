@@ -1,4 +1,4 @@
-package dev.sultanbaev_s.quizzly_app
+package com.example.quizzly_app
 
 import io.flutter.embedding.android.FlutterActivity
 

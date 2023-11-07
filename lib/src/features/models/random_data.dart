@@ -10,8 +10,8 @@ class RandomData {
   late ValueNotifier<List<double>> list;
 
   RandomData() {
-    _a = ValueNotifier(random.nextInt(10));
-    _b = ValueNotifier(random.nextInt(10) + 1);
+    _a = ValueNotifier(random.nextInt(20));
+    _b = ValueNotifier(random.nextInt(20) + 1);
     operator = ValueNotifier(random.nextInt(4));
     list = ValueNotifier(_getList());
     string = ValueNotifier(getString());
@@ -68,8 +68,8 @@ class RandomData {
   }
 
   void reset() {
-    _a.value = random.nextInt(10);
-    _b.value = random.nextInt(10) + 1;
+    _a.value = random.nextInt(20);
+    _b.value = random.nextInt(20) + 1;
     operator.value = random.nextInt(4);
     list.value = _getList();
     string.value = getString();
